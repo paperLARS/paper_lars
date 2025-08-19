@@ -13,19 +13,18 @@ The repository is organized into three main directories, one for each model arch
 ```
 .
 ├── CNN/
+│   ├── main.py
 │   ├── train.py
-│   ├── evaluate.py
+│   ├── model.py
 │   └── ...
 ├── ViT/
+│   ├── main.py
 │   ├── train.py
-│   ├── evaluate.py
+│   ├── vit_model.py
 │   └── ...
 ├── YOLO/
-│   ├── train.py
-│   ├── evaluate.py
+│   ├── main.py
 │   └── ...
-├── data/
-│   ├── ... (dataset will be downloaded here)
 └── README.md
 ```
 
