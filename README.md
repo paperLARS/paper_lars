@@ -44,7 +44,7 @@ Each folder (`CNN`, `ViT`, and `YOLO`) contains the necessary scripts to:
 
 The curated dataset used for this project is a combination of images from three public datasets: AFO, Singapore, and a portion of Seagull.
 
-- The full dataset, excluding images from the Seagull dataset, can be downloaded from: **[Your Dataset Download Link Here]**
+- The full dataset, excluding images from the Seagull dataset, can be downloaded from: **[https://huggingface.co/datasets/paperlars/Dataset_LARS_paper]**
     
 
 **Note on the Seagull Dataset:** Due to licensing restrictions, the complete Seagull dataset is not included in this repository. The images are only available upon a specific request to the dataset authors. As such, the models in this repository were trained and evaluated on the available data from AFO and Singapore, as well as the publicly distributed portion of the Seagull dataset.
