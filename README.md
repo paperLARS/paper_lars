@@ -47,7 +47,9 @@ The curated dataset used for this project is a combination of images from three 
 - The full dataset, excluding images from the Seagull dataset, can be downloaded from: **[https://huggingface.co/datasets/paperlars/Dataset_LARS_paper]**
     
 
-**Note on the Seagull Dataset:** Due to licensing restrictions, the complete Seagull dataset is not included in this repository. The images are only available upon a specific request to the dataset authors. As such, the models in this repository were trained and evaluated on the available data from AFO and Singapore, as well as the publicly distributed portion of the Seagull dataset.
+**Note on the Seagull Dataset:** Due to licensing and redistribution restrictions, the complete Seagull dataset is not included in this repository. The images are only available upon a specific request to the dataset authors, and their licensing agreement does not permit us to share the data.
+
+The models in this repository were trained and evaluated on the full curated benchmark dataset, which includes the complete AFO, Singapore, and Seagull datasets. Consequently, readers who do not have access to the full Seagull dataset may not be able to reproduce the exact performance metrics reported in our paper.
 
 ---
 
