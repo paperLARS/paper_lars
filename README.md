@@ -1,4 +1,4 @@
-### A Comprehensive Comparison of Deep Learning Models for Maritime Surveillance
+### Enhancing Maritime Surveillance: A Multi-Model Analysis on a Curated Multi-Dataset Benchmark
 
 This repository contains the source code for the paper **"Enhancing Maritime Search and Rescue: A Comparative Analysis of CNNs, ViTs, and YOLO on a Curated Multi-Dataset Benchmark,"** submitted to the **24th IEEE Latin American Robotics Competition & 22nd IEEE Latin American Robotics Symposium (2025).**
 
